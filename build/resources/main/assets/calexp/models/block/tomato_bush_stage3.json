@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "calexp:blocks/tomato_bush_stage3"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "calexp:pancake_batter"
+  },
+  "result": "calexp:pancakes",
+  "experience": 1.0,
+  "cookingtime": 150
+}

@@ -1,0 +1,20 @@
+{
+  "type": "advancement_reward",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "calexp:calorie_expansion_guide_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{\"patchouli:book\": \"calorie_expansion_guide_book\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

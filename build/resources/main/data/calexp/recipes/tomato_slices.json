@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "calexp:tomato"
+    }
+  ],
+  "result": {
+    "item": "calexp:tomato_slices",
+    "count": 3
+  }
+}

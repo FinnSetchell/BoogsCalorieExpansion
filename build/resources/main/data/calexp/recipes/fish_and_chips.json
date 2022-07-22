@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "B"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cooked_cod"
+    },
+    "B": {
+      "item": "minecraft:baked_potato"
+    }
+  },
+  "result": {
+    "item": "calexp:fish_and_chips",
+    "count": 1
+  }
+}
